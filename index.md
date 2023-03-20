@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-#### My Projects
-### Topic 1
+### My Projects
+#### Topic 1
 
 [Dummy Project](/sample_page)
 
