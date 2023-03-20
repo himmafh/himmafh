@@ -4,7 +4,7 @@
 ### My Projects
 #### Topic 1
 
-[Dummy Project](/sample_page)
+[Dummy Project](/Untitled.ipynb)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
